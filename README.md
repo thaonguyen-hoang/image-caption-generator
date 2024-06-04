@@ -1,7 +1,7 @@
 ## Image Captioning
 
 ### Introduction
-This is our **group project** in **Course MAT3534 - Data Mining**
+This is our **group project** in **Course MAT3534 - Data Mining**. This repo was forked from [our original source](https://github.com/uyenhoang06/datamining-image-caption-generate), which I have made some modifications for personal purpose.
 
 #### 1. Learning objectives
 - learn about the entire process of data management and utilization for knowledge extraction to support business decisions makings
@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 
 Start by cloning the repository to your local machine using:
 
-`git clone https://github.com/uyenhoang06/datamining-image-caption-generate.git`
+`git clone https://github.com/thaonguyen-hoang/image-caption-generator.git`
 
 #### Step 2: Backend set up 
   `pip install -r requirements.txt`
