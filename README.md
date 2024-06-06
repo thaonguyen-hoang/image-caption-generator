@@ -31,7 +31,18 @@ The main idea is that we used an **Encoder-Decoder architecture** with **Attenti
 
 ![](./img/architecture.png)
 
+#### 3. Interface
+Some of the snapshots of our web application. Since this application was mainly dedicated to our final project, we have yet to deployed it on any server or hosting (we are learning how to) so unfortunately there isn't official link to the website in the meantime.
 
+![](./img/upload_1.png)
+
+![](./img/main_1.png)
+
+![](./img/upload.png)
+
+#### 4. Some questions or problems to keep me engage
+- research and experiment other architecture, for instance, transformer
+- working on training text embedding model seperately vs using pretrained weights (GloVe)
 
 ---
 
