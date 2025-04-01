@@ -20,7 +20,7 @@ This is our **group project** in **Course MAT3534 - Data Mining**. This repo was
 ### Overview
 
 #### 1. Dataset
-- For learning purpose, we have built a custom dataset containing **15,602 sport-related images along with captions** (1 cap per image) through varios stock photo websites
+- For learning purpose, we have built a custom dataset containing **15,602 sport-related images along with captions** (1 cap per image) through various stock photo websites
 - For training process, we also use the Flick8k dataset for comparison and evaluation
 
 ![](./img/sample.png)
